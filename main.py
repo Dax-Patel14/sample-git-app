@@ -21,8 +21,7 @@ with col2:
     # AFter 1st commit
 
     st.header("Courses offered")
-    st.subheader('Data Science')
+    st.subheader('Data Science and Machine learning')
     st.subheader('Data Analysis')
-    st.subheader('Data Engineering')
     st.subheader('Pyhton')
     st.subheader('SQL')
