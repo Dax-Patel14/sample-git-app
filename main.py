@@ -18,3 +18,9 @@ with col2:
     primarily in Machine/Deep Learning, I bring real-life industry experiences 
     directly to your learning journey.
     """)
+    # AFter 1st commit
+
+    st.header("Courses offered")
+    st.subheader('Data Science')
+    st.subheader('Data Analysis')
+    st.subheader('Data Engineering')
