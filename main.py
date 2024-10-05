@@ -38,4 +38,4 @@ with col2:
 """)
     
 st.sidebar.selectbox('Select One',['Teacher','Student'])
-st.sidebar.button('Select')
+st.sidebar.button('Select') 
