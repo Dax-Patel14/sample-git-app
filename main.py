@@ -3,7 +3,7 @@ st.title('CampusX')
 col1,col2 = st.columns(2)
 
 with col1:
-    st.image('campusxlogo.jpeg')
+    st.image('campusxdsmp.jpeg')
 with col2:
     st.write(""" Hello, I'm Nitish Singh, the founder of CampusX,
     your online gateway into the world of data science! At CampusX,
