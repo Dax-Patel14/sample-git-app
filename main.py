@@ -32,5 +32,7 @@ with col2:
 - Home
 - About
 - Contact
+- Career
+- Login
 
 """)
