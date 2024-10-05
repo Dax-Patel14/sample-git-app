@@ -26,3 +26,11 @@ with col2:
     st.subheader('Pyhton')
     st.subheader('SQL')
     st.subheader('DSA')
+
+    st.sidebar.title('Menu')
+    st.sidebar.markdown("""
+- Home
+- About
+- Contact
+
+""")
