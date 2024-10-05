@@ -25,3 +25,4 @@ with col2:
     st.subheader('Data Analysis')
     st.subheader('Pyhton')
     st.subheader('SQL')
+    st.subheader('DSA')
