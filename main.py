@@ -34,8 +34,10 @@ with col2:
 - Contact
 - Career
 - Login
-
 """)
-    
-st.sidebar.selectbox('Select One',['Teacher','Student'])
-st.sidebar.button('Select') 
+
+option = st.sidebar.selectbox('Select One',['Teacher','Student'])
+btn = st.sidebar.button('Select')
+
+if btn:
+    st.title("Hello "+ option)
